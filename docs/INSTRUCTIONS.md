@@ -25,5 +25,5 @@ Je kan ook ook een eigen artikel schrijven of op een andere manier duidelijk mak
 Deze leertaak hoort bij het gedragscriterium van _Lerend Vermogen_:
 
 Semester 2
-- Je volgt aangeboden internationale ontwikkelingen in het vakgebied.
+- Volgt aangeboden internationale ontwikkelingen in het vakgebied.
 
