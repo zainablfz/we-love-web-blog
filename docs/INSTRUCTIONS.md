@@ -5,7 +5,7 @@ Een blog voor het bijhouden van de We ♥ Web presentaties en workshops.
 
 ## Context
 
-Deze leertaak hoort bij alle semesters. 
+Deze leertaak hoort bij semester 2 - Data Drive Web. 
 
 ## Doel van deze opdracht
 
