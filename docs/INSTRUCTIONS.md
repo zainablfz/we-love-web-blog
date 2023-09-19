@@ -18,7 +18,6 @@ Een goede frontender blijft op de hoogte van internationale ontwikkelingen en tr
 Hierom worden Bij FDND elke sprint gastsprekers uitgenodigd tijdens de We ♥ Web sessies. 
 
 Ontwerp en maak een blog waarmee je de We Love Web sessies kan bijhouden. 
-Je kan ook ook een eigen artikel schrijven of op een andere manier duidelijk maken dat je op de hoogte blijft van de (internationale) ontwikkelingen in het vakgebied.
 
 ## Criteria
 
