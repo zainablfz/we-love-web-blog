@@ -1,7 +1,7 @@
 
 # We ♥ Web
 
-Een blog voor het bijhouden van de We ♥ Web presentaties en workshops. 
+Een blog voor het bijhouden van de We ♥ Web presentaties, workshops en challenges. 
 
 ## Context
 
