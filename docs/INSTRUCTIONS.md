@@ -5,7 +5,7 @@ Een blog voor het bijhouden van de We ♥ Web presentaties, workshops en challen
 
 ## Context
 
-Deze leertaak hoort bij semester 2 - Data Drive Web. 
+Deze leertaak hoort bij Semester 2 - Data Driven Web. 
 
 ## Doel van deze opdracht
 
@@ -15,9 +15,9 @@ Leren op de hoogte te blijven van internationale ontwikkelingen die van belang z
 
 Het frontend vakgebied verandert voortdurend. 
 Een goede frontender blijft op de hoogte van internationale ontwikkelingen en trends op het gebied van technologie, digitaal- en interactie ontwerp. 
-Hierom worden Bij FDND elke sprint gastsprekers uitgenodigd tijdens de We ♥ Web sessies. 
+Hierom worden bij FDND elke sprint gastsprekers uitgenodigd tijdens de We ♥ Web sessies. 
 
-Ontwerp en maak een blog waarmee je de We Love Web sessies kan bijhouden. 
+Ontwerp en maak een blog waarmee je de We ♥ Web sessies kan bijhouden. 
 
 ## Criteria
 
